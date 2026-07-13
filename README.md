@@ -1,6 +1,5 @@
 ###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途。
-###### 请勿利用本资源进行商业行为，一旦再发现，本项目将永久关闭，望各位相互监督。
-### 部分文件更新周期长，但不代表不可使用，如果有问题直接提IS
+
 ###### 旧版本链接做备份，https://cdn.jsdelivr.net/gh/chao921125/source@7.4.0/*dir/*file
 
 #### 音乐 [lxmusic](lxmusic)
@@ -19,9 +18,9 @@
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
 
 #### 漫画 [cimoc](cimoc)
-##### 【大部分链接失效了，现在只有内置源的 APP】
+##### 【大部分链接失效了，去 TG 看看有没有最新的源】
 
-#### 小说 [legado 已删除，更换其他软件](legado)
+#### 小说 [legado](legado)
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/legado/index.json
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/legado/index.json
 
@@ -29,12 +28,14 @@
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/iptv/index.m3u
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/iptv/index.m3u
 
-# 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
+
+# 音乐 + 音源
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
 | [Lx 官网](https://lxmusic.toside.cn/) [Lx 官网](https://docs.lxmusic.top/)                 |
 | [Lx Win & Mac 下载地址](https://github.com/lyswhut/lx-music-desktop/releases)              |
 | [Lx Android 下载地址](https://github.com/lyswhut/lx-music-mobile/releases)                 |
+| [AnyListen Win & Mac 下载地址](https://github.com/any-listen/any-listen)                   |
 | [Lx ikun 修改版 Win & Mac 下载地址](https://github.com/ikunshare/ikun-music-desktop/releases) |
 | [Lx ikun 修改版 Android 下载地址](https://github.com/ikunshare/ikun-music-mobile/releases)    |
 | [MusicFree Win & Mac & Linux](https://github.com/maotoumao/MusicFreeDesktop)           |
@@ -42,6 +43,7 @@
 | [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
 | [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
 | [SPlayer 网易 免VIP](https://github.com/imsyy/SPlayer)                                    |
+| [YesPlayMusic 网易仿](https://github.com/qier222/YesPlayMusic)                            |
 | [spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)                           |
 | [nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)                                   |
 
@@ -50,13 +52,14 @@
 | https://www.xmwav.com/   |
 | https://www.gequbao.com/ |
 | https://zz123.com/       |
+| https://m.uzz.me/        |
 | http://www.xmsj.org/     |
 | https://www.kumeiwp.com/ |
 | http://www.eev3.com/     |
 | https://www.isflac.com/  |
 |                          |
 
-# 视频 + 电视直播 + 视频源 [zyfun](zyfun) [iptv](iptv) [tvbox](tvbox)
+# 视频 + 电视直播 + 视频源
 |                                                                           |
 |---------------------------------------------------------------------------|
 | [ZyFun(原 ZyPlayer) 官网](https://github.com/Hiram-Wong/ZyPlayer)            |
@@ -122,14 +125,14 @@
 | [TVBox](https://github.com/scovis/TVBox)             |
 |                                                      |
 
-# 图书 + 书源 [legado 已删除，更换其他软件](legado)
+# 图书 + 书源
 |                                                               |
 |---------------------------------------------------------------|
 | [Legado with MD3](https://github.com/HapeLee/legado-with-MD3) |
-| [小书包]()                                                       |
+| [legado-Harmony](https://github.com/mgz0227/legado-Harmony)   |
 |                                                               |
 
-# 漫画 + 图源 [cimoc 已删除，更换](cimoc)
+# 漫画 + 图源
 |                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------|
 | [Cimoc 官网](https://github.com/Haleydu/Cimoc)                                                                     |
@@ -142,14 +145,5 @@
 | [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                                    |
 |                                                                                                                  |
 
-[//]: # (![ccnet.jpg]&#40;other/ccnet.jpg&#41;)
-
-[//]: # (<img src="./other/ccnet.jpg" width="200" height="200" />)
-
-[//]: # (![pay-wx.jpg]&#40;other/pay-wx.jpg&#41;)
-[//]: # (<img src="./other/pay-wx.jpg" width="200" height="260" />)
-
-[//]: # (![pay-zfb.jpg]&#40;other/pay-zfb.jpg&#41;)
-[//]: # (<img src="./other/pay-zfb.jpg" width="200" height="280" />)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chao921125/source&type=Date)](https://www.star-history.com/#chao921125/source&Date)
